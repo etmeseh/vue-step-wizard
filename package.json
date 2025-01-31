@@ -29,7 +29,7 @@
   "main": "./dist/vue-step-wizard.common.js",
   "unpkg": "./dist/vue-step-wizard.common.min.js",
   "dependencies": {
-    "core-js": "^2.6.5",
+    "core-js": "^2.6.12",
     "vue": "^2.6.10",
     "vuelidate": "^0.7.5"
   },
